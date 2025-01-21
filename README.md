@@ -1,4 +1,6 @@
-Hi there! I'm a roboticist and a controls engineer finishing up my Ph.D. at the University of Michigan. You can find out more about me on my [website](tkevinbest.github.io) and see some of my latest research results on our lab's [YouTube Page](https://www.youtube.com/@BionicLocomotion)
+![hopper robot gif](assets/ddp_hopper.gif)
+
+Hi there! I'm a roboticist and a controls engineer finishing up my Ph.D. at the University of Michigan. You can find out more about me on [my website](tkevinbest.github.io) and see some of my latest research results on our lab's [YouTube Page](https://www.youtube.com/@BionicLocomotion).
 
 <!--
 **tkevinbest/tkevinbest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
